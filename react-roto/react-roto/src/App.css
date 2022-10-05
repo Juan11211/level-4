@@ -1,0 +1,62 @@
+* { 
+  margin: 0px;
+  padding: 0px;
+  color: white;
+  background-color: grey;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+  font-size: 35px;
+}
+
+.nav > a:hover {
+  color: lightblue;
+}
+
+.input { 
+  font-size: large;
+  text-align: center;
+  justify-content: center;
+  background-color: white;
+}
+
+button {
+  padding: 15px;
+  display: flex;
+  margin-top: 10px;
+  width: 375px;
+  background-color: white;
+  color: blue;
+  
+
+}
+
+
+.title { 
+  display: flex;
+  justify-content: center;
+}
+
+.home { 
+
+} 
+
+.services { 
+  font-size: large;
+  text-align: center;
+  justify-content: center;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBINW_-c44xLw8nEj78hOOGcPiMcas8LOWWw&usqp=CAU");
+}
+
+.about { 
+  font-size: large;
+  text-align: center;
+  justify-content: center;
+}
+
+.contact { 
+  display: flex;
+  justify-content: center;
+}
